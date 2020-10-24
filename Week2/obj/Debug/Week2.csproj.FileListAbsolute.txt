@@ -1,0 +1,7 @@
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\bin\Debug\Week2.exe.config
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\bin\Debug\Week2.exe
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\bin\Debug\Week2.pdb
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\obj\Debug\Week2.exe
+C:\ALAN\ESILV_A3\OOP\Week2\Week2\obj\Debug\Week2.pdb
